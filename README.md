@@ -3,12 +3,6 @@
 
 This repository contains a dataset for identifying single nucleotide polymorphisms (SNPs) located within genomic regions of human microRNAs (miRNAs).
 
-The project was developed as part of a student research project for the **"Young Biologist" conference** and demonstrates how large genomic datasets can be analyzed using bioinformatics tools.
-
-## Project Goal
-
-The goal of this project is to build a curated dataset of SNPs that overlap with human microRNA regions. Such variants may influence miRNA structure or function and therefore could potentially affect gene regulation and predisposition to socially significant diseases.
-
 ## Data Sources
 
 The analysis uses publicly available genomic databases:
@@ -34,8 +28,4 @@ The pipeline performs the following steps:
 - bedtools
 - awk
 - wget
-- Unix shell
-
-## Output Dataset
-
-The final dataset:
+- Terminal
